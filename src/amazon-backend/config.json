@@ -1,0 +1,10 @@
+{
+    "app": {
+        "port": "5000"
+    },
+
+    "db": {
+        "dialect": "sqlite",
+        "storage": "database.sqlite"
+    }
+}
