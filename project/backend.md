@@ -298,5 +298,18 @@ module.exports = router;
 
 
 
+* If you notice on the line:
+
+``` javascript
+var cors = require('cors');
+router.all("*", cors());
+```
+
+This piece of code essentially allows the API server's endpoints to be accessed from a different origin. We may need to enable this in order for the frontend to access the api server running from a different domain/port. We also need to install the **cors** library before running our api server:
+
+```bash
+npm install --save cors
+```
+
 * If everything is in order you should be able the list of authors on http://localhost:5000/api/v1/authors/ and details of a single author in http://localhost:5000/api/v1/authors/1
 
