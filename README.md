@@ -1,6 +1,6 @@
 # Web Development in node.js
 
-This notebook focuses on teaching the web development in node.js. This tutorial assumes that you have basic understanding of javascript and node.js. For starters before diving in, make sure that you at least run through the [Introduction to javascript & node.js](https://github.com/adelagon/javascript-nodejs-gitbook).
+This notebook focuses on teaching the web development in node.js. This tutorial assumes that you have basic understanding of javascript and node.js. For starters before diving in, make sure that you at least run through the [Introduction to javascript & node.js](https://github.com/adelagon/javascript-nodejs-gitbook). Corrections/Additions are welcome, just send me a pull request.
 
 Make sure that you visit [Setting up your environment ](setup/README.md) to be able to run this notebook on your own laptop. 
 
